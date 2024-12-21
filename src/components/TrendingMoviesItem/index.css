@@ -1,0 +1,9 @@
+.poster-image {
+    height: 160px;
+    width: 150px;
+    border-radius: 20px;
+}
+.trending-movies-item {
+    margin: 20px;
+    cursor: pointer;
+}

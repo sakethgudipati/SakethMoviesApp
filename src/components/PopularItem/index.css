@@ -1,0 +1,9 @@
+.popular-item {
+    cursor: pointer;
+    margin: 20px;
+}
+.popular-image {
+    height: 200px;
+    width: 190px;
+    border-radius: 20px;
+}

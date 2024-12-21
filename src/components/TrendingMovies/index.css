@@ -1,0 +1,10 @@
+.trending-movies-list {
+    list-style-type: none;
+    overflow-x: auto;
+    scrollbar-width: none; 
+}
+  
+.trending-movies-list::-webkit-scrollbar {
+    width: 0; 
+}
+  

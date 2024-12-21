@@ -1,0 +1,19 @@
+.original-movies {
+    list-style-type: none;
+    overflow-x: auto;
+    scrollbar-width: none; 
+}
+  
+..original-movies::-webkit-scrollbar {
+    width: 0; 
+}
+.circle-loader-container2 {
+    margin-top: 60px;
+    text-align: center;
+    padding-bottom: 100px;
+    align-self: center;
+}
+.responsive-container {
+    display: flex;
+    flex-direction: column;
+}

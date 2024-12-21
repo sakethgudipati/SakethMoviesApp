@@ -1,0 +1,25 @@
+.navbar-logo {
+    opacity: 1;
+    cursor: pointer;
+}
+.navbar-style {
+    width: 100%;
+    position: fixed;
+    background: rgba(1, 1, 1, 0.2);
+    padding: 20px;
+}
+
+.navbar-style.scrolled {
+    background-color: rgb(26, 25, 25);
+}
+.nav-responsive-style {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+#navbarStyle {
+    width: 100%;
+    position: fixed;
+    background: rgba(0, 0, 0, 0.2);
+    padding: 20px;
+}

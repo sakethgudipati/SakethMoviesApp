@@ -1,0 +1,31 @@
+.not-found-container {
+    background-image: url('https://res.cloudinary.com/defacaof3/image/upload/v1734760233/4c28572ced55c420bbcd234b14c68813_mn0w0s.jpg');
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.second-bg {
+    background-color:rgb(141, 141, 225,0.7);
+    padding: 10px;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.not-found-head {
+    padding-bottom: 20px;
+    font-size: 55px;
+    text-align: center;
+}
+.not-found-para {
+    text-align: center;
+    color: white;
+    padding-bottom: 20px;
+    font-weight: 500;
+    font-size: 25px;
+}
